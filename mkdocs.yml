@@ -1,0 +1,41 @@
+site_name: "Projekti s otvorenim podacima Grada Zagreba"
+
+theme:
+  name: material
+  palette:
+    primary: custom
+  logo: assets/images/logo_zagreb_negative.svg
+  favicon: assets/images/logo_zagreb.svg
+  features:
+    - navigation.path
+    - navigation.footer
+
+nav:
+  - Početna: index.md
+  - Projekti:
+      - "2024.":
+          - "Basna, bajka, burg": 2024/basna-bajka-burg.md
+          - Gugalaga: 2024/gugalaga.md
+          - Parlametar: 2024/parlametar.md
+          - ? >-
+              Programsko rješenje za izračun uštede i povrata investicije u
+              sunčane elektrane
+            : 2024/energantic.md
+          - "Projekt Online izlog i platforma www.vidistomogu.hr": 2024/online-izlog.md
+          - "Sakralni objekti grada Zagreba": 2024/sakralni-objekti.md
+          - ? >-
+              Sistematizacije, zaposleni i radni uvjeti u poduzećima
+              i ustanovama Grada Zagreba
+            : 2024/brid.md
+          - "Što s otpadom?": 2024/sto-s-otpadom.md
+          - "Tvornica jednakosti - zdravstvo": 2024/tvornica-jednakosti-zdravstvo.md
+          - ZgInfo.AI: 2024/zginfo-ai.md
+          - ZgViz: 2024/zgviz.md
+
+extra_css:
+  - stylesheets/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/GradZagreb
