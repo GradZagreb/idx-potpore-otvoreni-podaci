@@ -1,0 +1,35 @@
+div.md-container img {
+    border-width: 1px;
+    border-color: black;
+    max-width: 100%;
+    height: auto;
+    border-style: solid;
+}
+
+:root>* {
+    --md-primary-fg-color: #163d73;
+    --md-primary-fg-color--light: #ffffff;
+}
+
+.md-header__button.md-logo img {
+    height: 4rem;
+    width: auto;
+}
+
+nav.md-footer__inner {
+    display: none;
+}
+
+.md-footer__inner:not([hidden]) {
+    display: none
+}
+
+div.md-footer-meta {
+    background-color: #163d73;
+}
+
+a.md-social__link svg {
+    height: 2rem;
+    max-height: 2rem;
+    width: auto;
+}
