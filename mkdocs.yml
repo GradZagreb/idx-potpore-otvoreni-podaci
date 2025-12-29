@@ -1,4 +1,5 @@
 site_name: "Projekti s otvorenim podacima Grada Zagreba"
+site_url: https://gradzagreb.github.io/idx-potpore-otvoreni-podaci/index.html
 
 theme:
   name: material
