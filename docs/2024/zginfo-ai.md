@@ -1,5 +1,8 @@
 # ZgInfo.AI - pametni asistent za gradska pitanja (Immersive Games)
 
+!!! info inline end "Poveznica"
+    [https://zginfo.ai/](https://zginfo.ai/)
+
 Tim okupljen oko Immersive Games izradio je web sučelje za informiranje
 o gradskim pitanjima koji se oslanja na tehnologije velikih jezičnih
 modela. Pristup [aplikaciji](https://zginfo.ai/) je besplatan, a omogućuje

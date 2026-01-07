@@ -1,5 +1,10 @@
 # Tvornica jednakosti - zdravstvo (Centar za mirovne studije)
 
+!!! info inline end "Poveznica"
+    [https://www.cms.hr/publikacija/mapiranje-profitnog-i-javnog-zdravstva-u-gradu-zagrebu-inicijalno-izvjesce-i-polazna-analiza/](
+        https://www.cms.hr/publikacija/mapiranje-profitnog-i-javnog-zdravstva-u-gradu-zagrebu-inicijalno-izvjesce-i-polazna-analiza/
+    )
+
 Tim okupljen oko Centra mirovnih studija izradio je detaljnu analizu
 javne i privatne zdravstvene infrastrukture u Zagrebu. Rezultat njihovog
 rada je izvještaj na 68 stranica koji možete pronaći

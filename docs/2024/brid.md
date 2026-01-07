@@ -1,5 +1,10 @@
 # Sistematizacije, zaposleni i radni uvjeti u poduzećima i ustanovama Grada Zagreba (BRID)
 
+!!! info inline end "Poveznica"
+    [https://marko-lucic.shinyapps.io/grad_zagreb_otvoreni_podaci/](
+        https://marko-lucic.shinyapps.io/grad_zagreb_otvoreni_podaci/
+    )
+
 Članovi Baze za radničku inicijativu i demokratizaciju (BRID)
 napravili su analizu jaza između planiranog i stvarnog broja izvršitelja
 na radnim mjestima u poduzećima i ustanovama Grada Zagreba iz područja

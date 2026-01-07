@@ -1,5 +1,10 @@
 # Što s otpadom? (Zelena akcija i Slobodna domena)
 
+!!! info inline end "Poveznica"
+    [https://zelena-akcija.hr/hr/sto-s-otpadom](
+        https://zelena-akcija.hr/hr/sto-s-otpadom
+    )
+
 _Što s otpadom_ suradnički je projekt Zelene akcije i Slobodne domene koji je
 za cilj imao analizirati povezanosti između problema s otpadom prijavljenih
 na Zeleni telefon Zelene akcije i dostupnosti javne infrastrukture za

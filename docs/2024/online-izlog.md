@@ -1,5 +1,8 @@
 # Projekt Online izlog i platforma www.vidistomogu.hr (Dar-Mar, CZOO)
 
+!!! info inline end "Poveznica"
+    [https://vidistomogu.hr/](https://vidistomogu.hr/)
+
 Učenička zadruga Dar-Mar koja djeluje pri Centru za odgoj i obrazovanje
 (CZOO) izradila je platformu [Vidi što mogu](https://vidistomogu.hr/).
 Platforma stavlja na raspolaganje podatke o učeničkim zadrugama koje

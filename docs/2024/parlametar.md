@@ -1,5 +1,8 @@
 # Parlametar (GONG, DJND)
 
+!!! info inline end "Poveznica"
+    [https://zagreb.parlametar.hr/](https://zagreb.parlametar.hr/)
+
 Članovi GONG-a i slovenskog Danes je nov dan (DJND) izradili su
 [Parlametar Zagreb](https://zagreb.parlametar.hr/), web aplikaciju
 koja građankama i građanima daje mogućnost pregledavanja sjednica,

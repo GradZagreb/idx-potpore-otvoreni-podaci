@@ -1,5 +1,8 @@
 # Zagreb Viz: Transparentnost na dlanu (Binspired)
 
+!!! info inline end "Poveznica"
+    [https://www.zgviz.com/](https://www.zgviz.com/)
+
 Tim iz Binspired napravio je online konzolu koju građani mogu koristiti za
 dobivanje informacija o potrošnji proračunskih sredstava Grada. Konzola se
 oslanja na informacije dostupne putem sustava
