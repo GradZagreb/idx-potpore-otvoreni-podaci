@@ -16,6 +16,10 @@ nav:
   - Projekti:
       - "2024.":
           - "Basna, bajka, burg": 2024/basna-bajka-burg.md
+          - ? >-
+              Digitalni model reljefa i katastar potencijalnih speleoloških
+              objekata na  području Medvednice
+            : 2024/digitalni-model-reljefa-medvednica.md
           - Gugalaga: 2024/gugalaga.md
           - Parlametar: 2024/parlametar.md
           - ? >-
@@ -30,6 +34,7 @@ nav:
             : 2024/brid.md
           - "Što s otpadom?": 2024/sto-s-otpadom.md
           - "Tvornica jednakosti - zdravstvo": 2024/tvornica-jednakosti-zdravstvo.md
+          - "ZET Info": 2024/zet-info-v3.md
           - ZgInfo.AI: 2024/zginfo-ai.md
           - ZgViz: 2024/zgviz.md
 
